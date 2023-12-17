@@ -1,0 +1,668 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/ink.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/fire.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\ue001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bcredit.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/ycredit.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/gcredit.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/redracoons.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\ue002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/orangeotters.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\ue003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/firefoxes.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\ue004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/greengoats.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\ue006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/tealtigers.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\ue008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/bluebadgers.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\ue009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/purplepeacocks.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\ue012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/pinkpanthers.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\ue011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/redracoons.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\ue013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/orangeotters.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\ue014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/firefoxes.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\ue015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/greengoats.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\ue017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/tealtigers.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\ue019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/bluebadgers.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\ue020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/purplepeacocks.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\ue023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/redracoons.png",
+            "ascent": -10,
+            "height": 16,
+            "chars": [
+                "\ue213"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/orangeotters.png",
+            "ascent": -10,
+            "height": 16,
+            "chars": [
+                "\ue214"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/firefoxes.png",
+            "ascent": -10,
+            "height": 16,
+            "chars": [
+                "\ue215"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/spec.png",
+            "ascent": -10,
+            "height": 10,
+            "chars": [
+                "\ue216"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/greengoats.png",
+            "ascent": -10,
+            "height": 16,
+            "chars": [
+                "\ue217"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/admin.png",
+            "ascent": -10,
+            "height": 10,
+            "chars": [
+                "\ue218"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/tealtigers.png",
+            "ascent": -10,
+            "height": 16,
+            "chars": [
+                "\ue219"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/bluebadgers.png",
+            "ascent": -10,
+            "height": 16,
+            "chars": [
+                "\ue220"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/pinkpanthers.png",
+            "ascent": -10,
+            "height": 16,
+            "chars": [
+                "\ue222"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/purplepeacocks.png",
+            "ascent": -10,
+            "height": 16,
+            "chars": [
+                "\ue223"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/dev.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/builders.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/admin.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/spec.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/wool.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/artist.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/manager.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/mod.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/tester.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/social.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/hub_hud.png",
+            "ascent": 32,
+            "height": 32,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/player.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/player.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bossbarmovement1.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/teams/pinkpanthers.png",
+            "ascent": 7,
+            "height": 24,
+            "chars": [
+                "\ue022" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/ycredit.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/minecraft2.png",
+            "ascent": 40,
+            "height": 70,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/minecraft.png",
+            "ascent": 40,
+            "height": 70,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/move_select.png", 
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/walkie_talkie.png", 
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/vh_kit_select.png", 
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/sts.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/alert.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bossbarvoid1.png", 
+            "ascent": 14,
+            "height": 40,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/wool_icon.png",
+            "ascent": 28,
+            "height": 30,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/kill_icon.png",
+            "ascent": 28,
+            "height": 30,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/click_icons/click_action_left.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/click_icons/click_action_left_double.png", 
+            "ascent": 13,
+            "height": 13,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/click_icons/click_action_right.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/click_icons/click_action_shift.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/manual.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/auto.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/makeshift.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/uncommon.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/common.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/rare.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/epic.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/legendary.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/double_chest.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/single_chest.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/social_menu.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/compass.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/locker.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "" 
+            ]
+        }
+    ]
+}
