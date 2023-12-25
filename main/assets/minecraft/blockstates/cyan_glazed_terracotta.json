@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/cyan_glazed_terracotta",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "minecraft:block/button1"
+    },
+    "facing=south": {
+      "model": "minecraft:block/button1_pressed"
+    },
+    "facing=west": {
+      "model": "minecraft:block/cyan_glazed_terracotta",
+      "y": 90
+    }
+  }
+}
