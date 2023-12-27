@@ -424,7 +424,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/minecraft2.png",
-            "ascent": 40,
+            "ascent": 30,
             "height": 70,
             "chars": [
                 "" 
@@ -433,7 +433,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/minecraft.png",
-            "ascent": 40,
+            "ascent": 30,
             "height": 70,
             "chars": [
                 "" 
