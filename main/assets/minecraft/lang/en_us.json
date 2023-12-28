@@ -2320,7 +2320,7 @@
   "instrument.minecraft.dream_goat_horn": "Dream",
   "container.inventory": "",
   "container.hopper": "Item Hopper",
-  "container.crafting": "   §6Craftinator",
+  "container.crafting": "§bCraftinator",
   "container.dispenser": "Dispenser",
   "container.dropper": "Dropper",
   "container.furnace": "Furnace",
