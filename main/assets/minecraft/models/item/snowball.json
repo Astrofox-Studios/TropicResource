@@ -1,1 +1,11 @@
-aa    
+{
+ "parent": "item/handheld",
+ "textures": {
+ "layer0": "item/paper"
+ },
+ 
+ "overrides": [
+
+ {"predicate": {"custom_model_data":6969420}, "model": "item/cocoball"}
+ ]
+}
