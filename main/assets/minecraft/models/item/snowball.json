@@ -5,6 +5,14 @@
  },
  
  "overrides": [
- {"predicate": {"custom_model_data":1}, "model": "item/cocoball"}
+ {"predicate": {"custom_model_data":1}, "model": "item/cocoball"},
+ {"predicate": {"custom_model_data":2}, "model": "item/pbblue"},
+ {"predicate": {"custom_model_data":3}, "model": "item/pbcyan"},
+ {"predicate": {"custom_model_data":4}, "model": "item/pbgreen"},
+ {"predicate": {"custom_model_data":5}, "model": "item/pborange"},
+ {"predicate": {"custom_model_data":6}, "model": "item/pbpink"},
+ {"predicate": {"custom_model_data":7}, "model": "item/pbpurple"},
+ {"predicate": {"custom_model_data":8}, "model": "item/pbred"},
+ {"predicate": {"custom_model_data":9}, "model": "item/pbyellow"}
  ]
 }
