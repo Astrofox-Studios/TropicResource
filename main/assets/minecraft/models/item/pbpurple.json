@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "purplepb",
-		"particle": "purplepb"
+		"0": "block/purplepb",
+		"particle": "block/purplepb"
 	},
 	"elements": [
 		{
