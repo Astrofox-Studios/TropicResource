@@ -1,0 +1,13 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+ "layer0": "item/diamond_sword"
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":1}, "model": "item/weppons/firesword"},
+ {"predicate": {"custom_model_data":2}, "model": "item/weppons/watersword"},
+ {"predicate": {"custom_model_data":3}, "model": "item/weppons/earthsword"},
+ {"predicate": {"custom_model_data":4}, "model": "item/weppons/airsword"}
+ ]
+}

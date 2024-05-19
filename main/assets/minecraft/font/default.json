@@ -459,11 +459,110 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/ctf_kit_select.png", 
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/vh.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/vh_wall.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/vh_turret.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/vh_red.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/vh_cam.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/sts.png", 
             "ascent": 7.5,
             "height": 8,
             "chars": [
                 ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/cosmic.png", 
+            "ascent": 7.5,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/castle.png", 
+            "ascent": 7.5,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/movement.png", 
+            "ascent": 7.5,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/ststitle.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": [
+                "񐏹"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/selection.png",
+            "ascent": 7.5,
+            "height": 8,
+            "chars": [
+                "񐏺"
             ]
         },
         {
@@ -477,11 +576,20 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/hubhud.png", 
+            "file": "minecraft:custom/bossbarvoid1.png", 
             "ascent": 14,
             "height": 40,
             "chars": [
                 ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bossbarcosmic1.png", 
+            "ascent": 14,
+            "height": 40,
+            "chars": [
+                ""
             ]
         },
         {
@@ -500,6 +608,15 @@
             "height": 30,
             "chars": [
                 ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/player_icon.png",
+            "ascent": 28,
+            "height": 30,
+            "chars": [
+                ""
             ]
         },
         {
@@ -536,6 +653,51 @@
             "height": 9,
             "chars": [
                 ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/cosmic_fuel_green.png",
+            "ascent": -6,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/cosmic_fuel_yellow.png",
+            "ascent": -6,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/cosmic_fuel_orange.png",
+            "ascent": -6,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/cosmic_fuel_red.png",
+            "ascent": -6,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/cosmic_fuel_gray.png",
+            "ascent": -6,
+            "height": 16,
+            "chars": [
+                ""
             ]
         },
         {
@@ -627,7 +789,51 @@
             "chars": [
                 ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/crate.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/compass.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/locker.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/fade.png", 
+            "ascent": 1080,
+            "height": 2160,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/settings.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "" 
+            ]
         }
-        
     ]
 }

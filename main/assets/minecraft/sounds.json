@@ -89,9 +89,28 @@
     "music.under_water": {
       "replace": true
     },
-	"sound.custom.coin":{
+	"sound.custom.kill":{
 		"sounds": [
-           "custom/coin"
+           "custom/kill"
+		]
+	},
+	"block.barrel.open": {
+	   "sounds": [
+		  {
+			 "name": "block/barrel_open1",
+			 "volume": 1,
+			 "pitch": 1
+		  },
+		  {
+			 "name": "block/barrel_open2",
+			 "volume": 1,
+			 "pitch": 1
+		  }
+	   ]
+	},
+	"block.barrel.close":{
+		"sounds": [
+           "block/barrel_close"
 		]
     },
 	"sound.custom.birds":{
@@ -127,6 +146,29 @@
                 "name": "custom/birds/birds10"
             }
 
+		]
+    },
+	"sound.custom.waves":{
+		"sounds": [
+            {
+                "name": "custom/water/wave1"
+            },
+            {
+                "name": "custom/water/wave2"
+            },
+            {
+                "name": "custom/water/wave3"
+            },
+            {
+                "name": "custom/water/wave4"
+            },
+            {
+                "name": "custom/water/wave5"
+            },
+            {
+                "name": "custom/water/wave6"
+            }
+            
 		]
     },
 	"sound.custom.death":{
@@ -209,6 +251,19 @@
 			{
 				"name": "custom/death/death4"
 			}
+
+		]
+
+    },
+			"sound.custom.cook":{
+		"sounds": [
+				"custom/cook"
+
+		]
+    },
+				"sound.custom.face":{
+		"sounds": [
+				"custom/face"
 
 		]
     },
@@ -295,6 +350,12 @@
 	"sound.custom.exit":{
 		"sounds": [
 		"custom/exit"
+
+		]
+	},
+	"sound.custom.cosmic":{
+		"sounds": [
+		"custom/cosmic"
 
 		]
 	},
@@ -430,6 +491,11 @@
 	"sound.custom.ost":{
 		"sounds": [
            "custom/ost"
+		]
+    },
+	"sound.custom.selection_sphere":{
+		"sounds": [
+           "custom/selection_sphere"
 		]
     },
 	"sound.custom.startgame":{
