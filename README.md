@@ -1,4 +1,4 @@
-![Tropiclash Logo](https://github.com/Astrofox-Studios/DESTINYResource/blob/main/test/test.png)
+![Tropiclash Logo](https://github.com/Astrofox-Studios/TropicResource/blob/main/test/test.png)
 
 The Resource Pack for Tropiclash! 
 
