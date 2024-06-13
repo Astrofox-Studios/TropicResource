@@ -244,6 +244,49 @@
 		
 		
 		
+		{
+            "type":"bitmap",
+            "file":"tropiclash:fonts/category/hat.png",
+            "ascent":9,
+            "height":9,
+            "chars":[
+                "\uEF1C"
+            ]
+        },
+		{
+            "type":"bitmap",
+            "file":"tropiclash:fonts/category/handheld.png",
+            "ascent":9,
+            "height":9,
+            "chars":[
+                "\uEF1D"
+            ]
+        },
+		{
+            "type":"bitmap",
+            "file":"tropiclash:fonts/category/other.png",
+            "ascent":9,
+            "height":9,
+            "chars":[
+                "\uEF1E"
+            ]
+        },
+		{
+            "type":"bitmap",
+            "file":"tropiclash:fonts/category/limited.png",
+            "ascent":9,
+            "height":9,
+            "chars":[
+                "\uEF1F"
+            ]
+        },
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		{
