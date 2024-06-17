@@ -42,6 +42,20 @@
 	{"predicate": {"custom_model_data":  30}, "model": "tropiclash:item/crate/rare_crate" },
 	{"predicate": {"custom_model_data":  31}, "model": "tropiclash:item/crate/epic_crate" },
 	{"predicate": {"custom_model_data":  32}, "model": "tropiclash:item/crate/legendary_crate" },
+	
+	
+	
+	
+	
+	{"predicate": {"custom_model_data":  41}, "model": "tropiclash:item/collectable/coin_small" },
+	{"predicate": {"custom_model_data":  42}, "model": "tropiclash:item/collectable/coin_medium" },
+	{"predicate": {"custom_model_data":  43}, "model": "tropiclash:item/collectable/coin_large" },
+	{"predicate": {"custom_model_data":  44}, "model": "tropiclash:item/collectable/xp_small" },
+	{"predicate": {"custom_model_data":  45}, "model": "tropiclash:item/collectable/xp_medium" },
+	{"predicate": {"custom_model_data":  46}, "model": "tropiclash:item/collectable/xp_large" },
+	{"predicate": {"custom_model_data":  47}, "model": "tropiclash:item/collectable/banana" },
+	{"predicate": {"custom_model_data":  48}, "model": "tropiclash:item/collectable/coconut" },
+	{"predicate": {"custom_model_data":  49}, "model": "tropiclash:item/collectable/pepper" },
  
  
  
