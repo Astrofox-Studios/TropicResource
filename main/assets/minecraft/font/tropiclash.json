@@ -120,6 +120,15 @@
                 "\uEF0E"
             ]
         },
+        {
+            "type":"bitmap",
+            "file":"tropiclash:fonts/small_dash.png",
+            "ascent":5,
+            "height":5,
+            "chars":[
+                "\uEF0F"
+            ]
+        },
 		
 		
 		
