@@ -56,6 +56,12 @@
 	{"predicate": {"custom_model_data":  47}, "model": "tropiclash:item/collectable/banana" },
 	{"predicate": {"custom_model_data":  48}, "model": "tropiclash:item/collectable/coconut" },
 	{"predicate": {"custom_model_data":  49}, "model": "tropiclash:item/collectable/pepper" },
+	
+	
+	
+	
+	{"predicate": {"custom_model_data":  61}, "model": "tropiclash:item/ufo_icon" },
+	{"predicate": {"custom_model_data":  62}, "model": "tropiclash:item/sts_switch_mode" },
  
  
  
