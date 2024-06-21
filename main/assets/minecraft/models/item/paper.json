@@ -13,6 +13,7 @@
 	{"predicate": {"custom_model_data":   6}, "model": "item/weppons/sniper"},
 	{"predicate": {"custom_model_data":   7}, "model": "item/weppons/shotgun1"},
 	{"predicate": {"custom_model_data":   8}, "model": "item/cosmetics/plushie1"},
+	{"predicate": {"custom_model_data":   9}, "model": "item/weppons/sword"},
  
  
  
@@ -56,6 +57,7 @@
 	{"predicate": {"custom_model_data":  47}, "model": "tropiclash:item/collectable/banana" },
 	{"predicate": {"custom_model_data":  48}, "model": "tropiclash:item/collectable/coconut" },
 	{"predicate": {"custom_model_data":  49}, "model": "tropiclash:item/collectable/pepper" },
+	
 	
 	
 	
