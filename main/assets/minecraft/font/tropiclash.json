@@ -297,6 +297,30 @@
 		
 		
 		
+		{
+            "type":"bitmap",
+            "file":"tropiclash:fonts/hub/games.png",
+            "ascent":85,
+            "height":85,
+            "chars":[
+                "\uEF20"
+            ]
+        },{
+            "type":"bitmap",
+            "file":"tropiclash:fonts/hub/shops.png",
+            "ascent":85,
+            "height":85,
+            "chars":[
+                "\uEF21"
+            ]
+        },
+		
+		
+		
+		
+		
+		
+		
 		
 		{
             "type":"bitmap",
