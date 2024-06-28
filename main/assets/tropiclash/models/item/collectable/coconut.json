@@ -2,32 +2,31 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "tropiclash:item/collectable/coconut",
-		"particle": "tropiclash:item/collectable/coconut"
+		"1": "tropiclash:item/collectable/coconut"
 	},
 	"elements": [
 		{
 			"from": [4, 0, 4],
 			"to": [12, 7, 12],
 			"faces": {
-				"north": {"uv": [4, 0, 8, 3.5], "texture": "#0"},
-				"east": {"uv": [4, 3.5, 8, 7], "texture": "#0"},
-				"south": {"uv": [4, 7, 8, 10.5], "texture": "#0"},
-				"west": {"uv": [0, 8, 4, 11.5], "texture": "#0"},
-				"up": {"uv": [4, 4, 0, 0], "texture": "#0"},
-				"down": {"uv": [4, 4, 0, 8], "texture": "#0"}
+				"north": {"uv": [4, 0, 8, 3.5], "texture": "#1"},
+				"east": {"uv": [4, 3.5, 8, 7], "texture": "#1"},
+				"south": {"uv": [4, 7, 8, 10.5], "texture": "#1"},
+				"west": {"uv": [0, 8, 4, 11.5], "texture": "#1"},
+				"up": {"uv": [4, 4, 0, 0], "texture": "#1"},
+				"down": {"uv": [4, 4, 0, 8], "texture": "#1"}
 			}
 		},
 		{
 			"from": [5, 7, 5],
 			"to": [11, 8, 11],
 			"faces": {
-				"north": {"uv": [8, 6, 11, 6.5], "texture": "#0"},
-				"east": {"uv": [8, 6.5, 11, 7], "texture": "#0"},
-				"south": {"uv": [8, 7, 11, 7.5], "texture": "#0"},
-				"west": {"uv": [8, 7.5, 11, 8], "texture": "#0"},
-				"up": {"uv": [11, 3, 8, 0], "texture": "#0"},
-				"down": {"uv": [11, 3, 8, 6], "texture": "#0"}
+				"north": {"uv": [8, 6, 11, 6.5], "texture": "#1"},
+				"east": {"uv": [8, 6.5, 11, 7], "texture": "#1"},
+				"south": {"uv": [8, 7, 11, 7.5], "texture": "#1"},
+				"west": {"uv": [8, 7.5, 11, 8], "texture": "#1"},
+				"up": {"uv": [11, 3, 8, 0], "texture": "#1"},
+				"down": {"uv": [11, 3, 8, 6], "texture": "#1"}
 			}
 		}
 	],
@@ -53,11 +52,12 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"ground": {
-			"translation": [0, 8.5, 0]
+			"translation": [0, 17, 0],
+			"scale": [2, 2, 2]
 		},
 		"gui": {
-			"rotation": [24.9, 60.44, 36.05],
-			"translation": [-1.5, 2.5, 0],
+			"rotation": [24.19, 16.02, -17.57],
+			"translation": [1.75, 5, 0],
 			"scale": [1.2, 1.2, 1.2]
 		},
 		"head": {
