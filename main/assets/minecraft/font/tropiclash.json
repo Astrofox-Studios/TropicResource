@@ -57,9 +57,15 @@
                 "\uEF07"
             ]
         },
+		
+		
+		
+		
+		
+		
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/small_colon.png",
+            "file":"tropiclash:fonts/small_text/small_colon.png",
             "ascent":5,
             "height":5,
             "chars":[
@@ -68,7 +74,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/small_lb.png",
+            "file":"tropiclash:fonts/small_text/small_lb.png",
             "ascent":5,
             "height":5,
             "chars":[
@@ -77,7 +83,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/small_rb.png",
+            "file":"tropiclash:fonts/small_text/small_rb.png",
             "ascent":5,
             "height":5,
             "chars":[
@@ -86,7 +92,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/small_lp.png",
+            "file":"tropiclash:fonts/small_text/small_lp.png",
             "ascent":5,
             "height":5,
             "chars":[
@@ -95,7 +101,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/small_rp.png",
+            "file":"tropiclash:fonts/small_text/small_rp.png",
             "ascent":5,
             "height":5,
             "chars":[
@@ -104,7 +110,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/small_slash.png",
+            "file":"tropiclash:fonts/small_text/small_slash.png",
             "ascent":5,
             "height":5,
             "chars":[
@@ -113,7 +119,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/small_slash.png",
+            "file":"tropiclash:fonts/small_text/small_apostrophe.png",
             "ascent":5,
             "height":5,
             "chars":[
@@ -122,7 +128,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/small_dash.png",
+            "file":"tropiclash:fonts/small_text/small_dash.png",
             "ascent":5,
             "height":5,
             "chars":[
@@ -138,7 +144,7 @@
 		
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/0.png",
+            "file":"tropiclash:fonts/small_text/0.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -147,7 +153,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/1.png",
+            "file":"tropiclash:fonts/small_text/1.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -156,7 +162,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/2.png",
+            "file":"tropiclash:fonts/small_text/2.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -165,7 +171,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/3.png",
+            "file":"tropiclash:fonts/small_text/3.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -174,7 +180,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/4.png",
+            "file":"tropiclash:fonts/small_text/4.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -183,7 +189,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/5.png",
+            "file":"tropiclash:fonts/small_text/5.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -192,7 +198,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/6.png",
+            "file":"tropiclash:fonts/small_text/6.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -201,7 +207,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/7.png",
+            "file":"tropiclash:fonts/small_text/7.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -210,7 +216,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/8.png",
+            "file":"tropiclash:fonts/small_text/8.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -219,7 +225,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/9.png",
+            "file":"tropiclash:fonts/small_text/9.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -228,7 +234,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/f.png",
+            "file":"tropiclash:fonts/small_text/f.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -237,7 +243,7 @@
         },
         {
             "type":"bitmap",
-            "file":"tropiclash:fonts/q.png",
+            "file":"tropiclash:fonts/small_text/q.png",
             "ascent":5,
             "height":6,
             "chars":[
@@ -305,13 +311,64 @@
             "chars":[
                 "\uEF20"
             ]
-        },{
+        },
+		{
             "type":"bitmap",
             "file":"tropiclash:fonts/hub/shops.png",
             "ascent":85,
             "height":85,
             "chars":[
                 "\uEF21"
+            ]
+        },
+		
+		
+		
+		
+		
+		
+		
+		{
+            "type":"bitmap",
+            "file":"tropiclash:fonts/small_text/small_qm.png",
+            "ascent":5,
+            "height":5,
+            "chars":[
+                "\uEF30"
+            ]
+        },
+		{
+            "type":"bitmap",
+            "file":"tropiclash:fonts/small_text/small_excl.png",
+            "ascent":5,
+            "height":5,
+            "chars":[
+                "\uEF31"
+            ]
+        },
+		
+		
+		
+		
+		
+		
+		
+		{
+            "type":"bitmap",
+            "file":"tropiclash:fonts/badge_edge.png",
+            "ascent":7,
+            "height":9,
+            "chars":[
+                "\uEF40"
+            ]
+        },
+		{
+            "type":"bitmap",
+            "file":"tropiclash:fonts/badge_middle.png",
+            "ascent":7,
+            "height":9,
+            "chars":[
+                "\uEF41"
             ]
         },
 		
