@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	"layer0": "tropiclash:item/ufo_icon"
+	"layer0": "tropiclash:item/sts/ufo_icon"
 	}
 }

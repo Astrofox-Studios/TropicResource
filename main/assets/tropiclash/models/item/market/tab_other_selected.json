@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	"layer0": "tropiclash:item/tab_all_selected"
+	"layer0": "tropiclash:item/market/tab_other_selected"
 	},
 	"display": {
 		"gui": {

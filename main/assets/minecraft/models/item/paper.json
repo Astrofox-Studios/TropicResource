@@ -26,14 +26,14 @@
 	{"predicate": {"custom_model_data":  15}, "model": "tropiclash:item/right_arrow" },
 	{"predicate": {"custom_model_data":  16}, "model": "tropiclash:item/x" },
 
-	{"predicate": {"custom_model_data":  20}, "model": "tropiclash:item/tab_all_selected" },
-	{"predicate": {"custom_model_data":  21}, "model": "tropiclash:item/tab_all_unselected" },
-	{"predicate": {"custom_model_data":  22}, "model": "tropiclash:item/tab_hat_selected" },
-	{"predicate": {"custom_model_data":  23}, "model": "tropiclash:item/tab_hat_unselected" },
-	{"predicate": {"custom_model_data":  24}, "model": "tropiclash:item/tab_handheld_selected" },
-	{"predicate": {"custom_model_data":  25}, "model": "tropiclash:item/tab_handheld_unselected" },
-	{"predicate": {"custom_model_data":  26}, "model": "tropiclash:item/tab_other_selected" },
-	{"predicate": {"custom_model_data":  27}, "model": "tropiclash:item/tab_other_unselected" },
+	{"predicate": {"custom_model_data":  20}, "model": "tropiclash:item/market/tab_all_selected" },
+	{"predicate": {"custom_model_data":  21}, "model": "tropiclash:item/market/tab_all_unselected" },
+	{"predicate": {"custom_model_data":  22}, "model": "tropiclash:item/market/tab_hat_selected" },
+	{"predicate": {"custom_model_data":  23}, "model": "tropiclash:item/market/tab_hat_unselected" },
+	{"predicate": {"custom_model_data":  24}, "model": "tropiclash:item/market/tab_handheld_selected" },
+	{"predicate": {"custom_model_data":  25}, "model": "tropiclash:item/market/tab_handheld_unselected" },
+	{"predicate": {"custom_model_data":  26}, "model": "tropiclash:item/market/tab_other_selected" },
+	{"predicate": {"custom_model_data":  27}, "model": "tropiclash:item/market/tab_other_unselected" },
  
  
  
@@ -62,8 +62,8 @@
 	
 	
 	
-	{"predicate": {"custom_model_data":  61}, "model": "tropiclash:item/ufo_icon" },
-	{"predicate": {"custom_model_data":  62}, "model": "tropiclash:item/sts_switch_mode" },
+	{"predicate": {"custom_model_data":  61}, "model": "tropiclash:item/sts/ufo_icon" },
+	{"predicate": {"custom_model_data":  62}, "model": "tropiclash:item/sts/sts_switch_mode" },
  
  
  
