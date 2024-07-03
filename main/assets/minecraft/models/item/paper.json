@@ -77,6 +77,8 @@
 	{"predicate": {"custom_model_data":  85}, "model": "tropiclash:item/profile_editor/tab_backgrounds_unselected" },
 	{"predicate": {"custom_model_data":  86}, "model": "tropiclash:item/profile_editor/tab_poses_selected" },
 	{"predicate": {"custom_model_data":  87}, "model": "tropiclash:item/profile_editor/tab_poses_unselected" },
+	
+	{"predicate": {"custom_model_data":  90}, "model": "tropiclash:item/profile_editor/locked_title" },
  
  
  
