@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/Cosmetics/briefcase",
-		"particle": "item/Cosmetics/briefcase"
+		"0": "Models:briefcase",
+		"particle": "Models:briefcase"
 	},
 	"elements": [
 		{
@@ -60,7 +60,7 @@
 		},
 		"fixed": {
 			"rotation": [-74, 90, -30.25],
-			"translation": [0.5, -14, -23.75],
+			"translation": [-32.5, -25.25, -23.75],
 			"scale": [3, 3, 3]
 		}
 	}
