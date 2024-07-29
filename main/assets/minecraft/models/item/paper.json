@@ -142,6 +142,8 @@
 	{"predicate": {"custom_model_data": 1000}, "model": "item/handhelds/coffee"},
 	{"predicate": {"custom_model_data": 1001}, "model": "item/handhelds/juice"},
 	{"predicate": {"custom_model_data": 1002}, "model": "item/handhelds/icecream"},
+	{"predicate": {"custom_model_data": 1003}, "model": "item/handhelds/briefcase"},
+	{"predicate": {"custom_model_data": 1004}, "model": "item/handhelds/tropicaltree"},
 	
 	
 	
