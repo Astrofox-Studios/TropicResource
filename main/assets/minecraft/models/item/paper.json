@@ -144,6 +144,7 @@
 	{"predicate": {"custom_model_data": 1002}, "model": "item/handhelds/icecream"},
 	{"predicate": {"custom_model_data": 1003}, "model": "item/handhelds/briefcase"},
 	{"predicate": {"custom_model_data": 1004}, "model": "item/handhelds/tropicaltree"},
+	{"predicate": {"custom_model_data": 1005}, "model": "item/environment/rocks"},
 	
 	
 	
