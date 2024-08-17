@@ -148,6 +148,7 @@
 	{"predicate": {"custom_model_data": 1006}, "model": "item/handhelds/surfboard"},
 	{"predicate": {"custom_model_data": 1007}, "model": "item/environment/lightpost"},
 	{"predicate": {"custom_model_data": 1008}, "model": "item/environment/lightpost2"},
+	{"predicate": {"custom_model_data": 1009}, "model": "item/handhelds/witchhat"},
 
 
 	{"predicate": {"custom_model_data": 2000}, "model": "item/crates/commoncrate"},
