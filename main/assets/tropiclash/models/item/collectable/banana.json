@@ -8,7 +8,7 @@
 		{
 			"from": [5, 0, 7],
 			"to": [12, 2, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 7, 2], "texture": "#0"},
 				"east": {"uv": [0, 10, 2, 12], "texture": "#0"},
@@ -76,7 +76,8 @@
 			"translation": [-6.5, 7.75, 1.25]
 		},
 		"ground": {
-			"translation": [0, 17.25, 0],
+			"rotation": [-4.02, -7.21, 72.22],
+			"translation": [-8, 16, 0],
 			"scale": [2, 2, 2]
 		},
 		"gui": {

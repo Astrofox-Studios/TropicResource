@@ -148,6 +148,13 @@
 	{"predicate": {"custom_model_data": 1006}, "model": "item/handhelds/surfboard"},
 	{"predicate": {"custom_model_data": 1007}, "model": "item/environment/lightpost"},
 	{"predicate": {"custom_model_data": 1008}, "model": "item/environment/lightpost2"},
+
+
+	{"predicate": {"custom_model_data": 2000}, "model": "item/crates/commoncrate"},
+	{"predicate": {"custom_model_data": 2001}, "model": "item/crates/uncommoncrate"},
+	{"predicate": {"custom_model_data": 2002}, "model": "item/crates/rarecrate"},
+	{"predicate": {"custom_model_data": 2003}, "model": "item/crates/epiccrate"},
+	{"predicate": {"custom_model_data": 2004}, "model": "item/crates/legendarycrate"},
 	
 	
 	
