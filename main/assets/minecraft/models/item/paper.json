@@ -156,6 +156,8 @@
 	{"predicate": {"custom_model_data": 2002}, "model": "item/crates/rarecrate"},
 	{"predicate": {"custom_model_data": 2003}, "model": "item/crates/epiccrate"},
 	{"predicate": {"custom_model_data": 2004}, "model": "item/crates/legendarycrate"},
+
+	{"predicate": {"custom_model_data": 4000}, "model": "item/furniture/crate"},
 	
 	
 	
