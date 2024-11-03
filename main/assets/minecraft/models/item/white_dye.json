@@ -51,9 +51,31 @@
 				"custom_model_data": 8
 			},
 			"model": "animated_java:item/crow/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:item/foodtruck/main"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "animated_java:item/birdguy/main"
 		}
 	],
 	"animated_java": {
+		"crow": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8
+		],
 		"rigs": {
 			"crow": {
 				"used_ids": [
@@ -64,6 +86,16 @@
 					6,
 					7,
 					8
+				]
+			},
+			"foodtruck": {
+				"used_ids": [
+					9
+				]
+			},
+			"birdguy": {
+				"used_ids": [
+					10
 				]
 			}
 		}
