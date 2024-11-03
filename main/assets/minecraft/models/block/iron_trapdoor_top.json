@@ -1,0 +1,18 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "#rail"
+    },
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [0,0,0],
+            "faces": {
+                "down": {
+                    "texture": "missingtexture"
+                }
+            }
+        }
+    ]
+}
