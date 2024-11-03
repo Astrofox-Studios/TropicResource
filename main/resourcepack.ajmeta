@@ -14,6 +14,28 @@
                 "assets\\animated_java\\textures\\item\\crow\\crow.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "undefined": {
+            "project_name": "foodtruck",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\foodtruck\\main.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "12820419-f88d-4db5-6996-eee2695439d9": {
+            "project_name": "foodtruck",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\foodtruck\\main.json",
+                "assets\\animated_java\\textures\\item\\foodtruck\\foodtruck.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "1c51626b-5767-f551-6006-a103f4bed563": {
+            "project_name": "birdguy",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\birdguy\\main.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
