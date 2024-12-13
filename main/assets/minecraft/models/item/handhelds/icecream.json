@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/beehive_end",
-		"1": "item/foods/icecreammain",
+		"1": "item/handhelds/icecreammain",
 		"particle": "block/beehive_end"
 	},
 	"elements": [

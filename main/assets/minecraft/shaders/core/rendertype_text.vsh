@@ -1,5 +1,3 @@
-// in a resource pack, this file goes in assets/minecraft/shaders/core
-
 #version 150
 
 #moj_import <fog.glsl>
@@ -14,33 +12,26 @@ uniform sampler2D Sampler2;
 uniform mat4 ModelViewMat;
 uniform mat4 ProjMat;
 uniform int FogShape;
+uniform vec2 ScreenSize;
 
 out float vertexDistance;
 out vec4 vertexColor;
 out vec2 texCoord0;
 
 void main() {
-    gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
-
+	gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+    
     vertexDistance = fog_distance(Position, FogShape);
-    vertexColor = Color * texelFetch(Sampler2, UV2 / 16, 0); // by default, this takes the color of the font provider (the texelFetch) and adds the overlay color ("Color")
+    vertexColor = Color * texelFetch(Sampler2, UV2 / 16, 0);
     texCoord0 = UV0;
 	
-	// ----- everything above this is the whole vanilla shader, everything below this is added -----
-	
-	// how it works: choose a text overlay color that you'll never use (i used total yellow, R255 G255 B0 or #FFFF00)
-	// any text overlayed with that color will display without a shadow using the below two lines of code
-	// (minecraft's built-in yellow is more pale than this so it'll still have a shadow)
-	// note: a png used in a font can still have #FFFF00 in it and will not affect the text shadow, we're only looking at the overlay colors
-	
-	// first: if the text is overlayed with our selected color, override vertexColor to ignore the "Color" parameter (the overlay color)
-	//        this is so that the text doesn't actually show up yellow
-	//        IMPORTANT: the colors aren't quite exact so we check for a color *very close* to #FFFF00
-	if (Color.r > 250/255. && Color.g > 250/255. && Color.b < 5/255.) vertexColor = texelFetch(Sampler2, UV2 / 16, 0);
-	
-	// second: if the overlay color is this specific darkened yellow then it's a shadow of the above color -
-	//         set the vertexColor to zero including the alpha value so it'll be invisible
-	//         i just had to identify this specific color through a bit of trial and error (60-65 red and green, 0-5 blue)
-	else if (Color.r > 60/255. && Color.r < 65/255. && Color.g > 60/255. && Color.g < 65/255. && Color.b < 5/255.) vertexColor = vec4(0);
-	
+	// Delete sidebar numbers
+	if (gl_Position.z < 0.001 && gl_Position.z > -0.001 && gl_Position.x >= 0.93 && gl_Position.y >= -0.35 && vertexColor.g == 84.0/255.0 && vertexColor.b == 84.0/255.0 && vertexColor.r == 252.0/255.0) { 
+		gl_Position = ProjMat * ModelViewMat * vec4(ScreenSize + 100.0, 0.0, 0.0); // remove scoreboard numbers
+	} else if (Color == vec4(78/255., 92/255., 36/255., Color.a)) {
+        vertexColor = texelFetch(Sampler2, UV2 / 16, 0); // remove color from no shadow marker
+    } else if (Color == vec4(19/255., 23/255., 9/255., Color.a)) {
+        vertexColor = vec4(0); // remove shadow
+    }
 }
+

@@ -113,6 +113,11 @@
            "block/barrel_close"
 		]
     },
+	"sound.custom.endevent":{
+		"sounds": [
+		"records/blocks"
+		]
+	},
 	"sound.custom.birds":{
 		"sounds": [
             {
@@ -260,6 +265,61 @@
 				"custom/cook"
 
 		]
+
+    },
+			"sound.custom.wipeout":{
+		"sounds": [
+				"custom/wipeout"
+
+		]
+    },
+			"sound.custom.overtime":{
+		"sounds": [
+				"custom/overtime"
+
+		]
+    },
+			"sound.custom.afterparty":{
+		"sounds": [
+				"custom/afterparty"
+
+		]
+    },
+			"sound.custom.intro":{
+		"sounds": [
+				"custom/intro"
+
+		]
+    },
+			"sound.custom.wipeout1":{
+		"sounds": [
+				"custom/wipeout1"
+
+		]
+    },
+			"sound.custom.microwave":{
+		"sounds": [
+				"custom/microwave"
+
+		]
+    },
+			"sound.custom.whyblue":{
+		"sounds": [
+				"custom/why_are_you_blue"
+
+		]
+    },
+			"sound.custom.jessie":{
+		"sounds": [
+				"custom/jessie"
+
+		]
+    },
+			"sound.custom.someone_cooked":{
+		"sounds": [
+				"custom/someone_cooked"
+
+		]
     },
 				"sound.custom.face":{
 		"sounds": [
@@ -277,22 +337,6 @@
 	"sound.custom.glide_ost2":{
 		"sounds": [
 				"custom/glide/glide_2"
-
-		]
-    },
-	
-	
-	"sound.custom.ta_start":{
-		"sounds": [
-				"custom/ta_start"
-
-		]
-    },
-
-		
-	"sound.custom.ta_ost":{
-		"sounds": [
-				"custom/ta_ost"
 
 		]
     },
@@ -341,9 +385,15 @@
 
 		]
 	},
-	"sound.custom.domination":{
+	"sound.custom.cataclysm":{
 		"sounds": [
-           "custom/domination"
+           "custom/cataclysm"
+
+		]
+    },
+	"sound.custom.cataclysm_grace":{
+		"sounds": [
+           "custom/cataclysm_grace"
 
 		]
     },
@@ -468,31 +518,6 @@
            "custom/race_to_the_finish"
 		]
     },
-	"sound.custom.dooropen":{
-		"sounds": [
-           "custom/dooropen"
-		]
-    },
-	"sound.custom.fillsand":{
-		"sounds": [
-           "custom/fillsand"
-		]
-    },
-	"sound.custom.fillsand2":{
-		"sounds": [
-           "custom/fillsand2"
-		]
-    },
-	"sound.custom.tick":{
-		"sounds": [
-           "custom/tick"
-		]
-    },
-	"sound.custom.ost":{
-		"sounds": [
-           "custom/ost"
-		]
-    },
 	"sound.custom.selection_sphere":{
 		"sounds": [
            "custom/selection_sphere"
@@ -503,55 +528,15 @@
            "custom/startgame"
 		]
     },
-	"sound.custom.starttimer":{
-		"sounds": [
-           "custom/starttimer"
-		]
-    },
-	"sound.custom.tickhigh":{
-		"sounds": [
-           "custom/tick/tickhigh"
-		]
-    },
-	"sound.custom.ticklow":{
-		"sounds": [
-           "custom/tick/ticklow"
-		]
-    },
-	"sound.custom.tickultralow":{
-		"sounds": [
-           "custom/tick/tickultralow"
-		]
-    },
-	"sound.custom.key":{
-		"sounds": [
-           "custom/key"
-		]
-    },
-	"sound.custom.vault":{
-		"sounds": [
-           "custom/vault"
-		]
-    },
 	"sound.custom.voidhunters":{
 		"sounds": [
            "custom/voidhunters"
 		]
 
     },
-	"sound.custom.wing_ring1":{
-		"sounds": [
-           "custom/wing_ring.1"
-		]
-    },
 	"sound.custom.game_end":{
 		"sounds": [
            "custom/game_end"
-		]
-    },
-	"sound.custom.jump_pad.2":{
-		"sounds": [
-           "custom/games.ace_race.jump_pad.2"
 		]
     },
 	"sound.custom.map.update":{
@@ -575,14 +560,49 @@
            "custom/sb" 
 		]
     },
+	"sound.custom.bh":{
+		"sounds": [
+           "custom/bh" 
+		]
+    },
+	"sound.custom.bhstart":{
+		"sounds": [
+           "custom/bhstart" 
+		]
+    },
 	"sound.custom.win":{
 		"sounds": [
            "custom/win"
 		]
     },
-    "sound.custom.droid_music_1":{
+	"sound.custom.winsfx":{
 		"sounds": [
-           "custom/corrupteddroid/music/music"
+           "custom/winsfx"
+		]
+    },
+	"sound.custom.dusk":{
+		"sounds": [
+           "custom/dusk"
+		]
+    },
+	"sound.custom.elevator":{
+		"sounds": [
+           "custom/elevator"
+		]
+    },
+	"sound.custom.splatshot_start":{
+		"sounds": [
+           "custom/splatshot_start"
+		]
+    },
+	"sound.custom.splatshot":{
+		"sounds": [
+           "custom/splatshot"
+		]
+    },
+	"sound.custom.selection_xmas":{
+		"sounds": [
+           "custom/selection_sphere_xmas"
 		]
     }
 }
