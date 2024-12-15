@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+    "layer0": "item/fishing_rod"
+    },
+    
+    "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "tropiclash:fishing/starter_rod"},
+    {"predicate": {"custom_model_data":2}, "model": "tropiclash:fishing/reinforced_rod"}
+
+    ]
+}

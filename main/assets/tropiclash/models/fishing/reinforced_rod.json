@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/spruce_planks",
+		"0": "block/gray_terracotta",
 		"1": "block/iron_block",
-		"2": "block/oak_planks",
-		"3": "block/stripped_dark_oak_log",
+		"2": "block/orange_terracotta",
+		"3": "block/gray_concrete",
 		"4": "block/white_wool",
 		"5": "block/pointed_dripstone_down_middle",
-		"particle": "block/spruce_planks"
+		"particle": "block/gray_terracotta"
 	},
 	"elements": [
 		{
@@ -316,6 +316,15 @@
 			"translation": [0, 5, 1]
 		},
 		"firstperson_righthand": {
+			"rotation": [-52, 180, 11],
+			"translation": [0.25, 5.25, 1],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [16, -180, 15],
+			"translation": [0, 5, 1]
+		},
+		"firstperson_lefthand": {
 			"rotation": [-52, 180, 11],
 			"translation": [0.25, 5.25, 1],
 			"scale": [0.6, 0.6, 0.6]
