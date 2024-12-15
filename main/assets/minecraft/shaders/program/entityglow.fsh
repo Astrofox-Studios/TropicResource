@@ -24,22 +24,22 @@ void main() {
     vec2 oneStep = oneTexel * BlurDir;
     float interval = 2.0;
     for (float r = -Radius; r < 0; r += interval) {
-      vec4 sample = texture(DiffuseSampler, texCoord + oneStep * r);
-      if (sample.a > 0.0) {
+      vec4 texSample = texture(DiffuseSampler, texCoord + oneStep * r);
+      if (texSample.a > 0.0) {
         interval = 1.0;
         totalColor++;
-        blurs += sample.rgb;
-        alpha = max(alpha, sample.a + r * gradient);
+        blurs += texSample.rgb;
+        alpha = max(alpha, texSample.a + r * gradient);
       }
     }
     interval = -2.0;
     for (float r = Radius; r > 0; r += interval) {
-      vec4 sample = texture(DiffuseSampler, texCoord + oneStep * r);
-      if (sample.a > 0.0) {
+      vec4 texSample = texture(DiffuseSampler, texCoord + oneStep * r);
+      if (texSample.a > 0.0) {
         interval = -1.0;
         totalColor++;
-        blurs += sample.rgb;
-        alpha = max(alpha, sample.a - r * gradient);
+        blurs += texSample.rgb;
+        alpha = max(alpha, texSample.a - r * gradient);
       }
     }
     fragColor = alpha > 0.0 ? (BlurDir.y == 1.0 ? vec4(blurs / totalColor, 1.0) : vec4(blurs / totalColor, alpha + (BlurDir.y == 1.0 ? gradient : 0.0))) : vec4(0.0);
