@@ -1,0 +1,18 @@
+
+{
+    
+    "music.global.parrot_explore":{
+        "sounds": [
+                "tropiclash:tc_music/parrot_explore"
+
+        ]
+    },
+
+    "music.global.lobby_light":{
+        "sounds": [
+                "tropiclash:tc_music/lobby_light"
+
+        ]
+    }
+
+}
