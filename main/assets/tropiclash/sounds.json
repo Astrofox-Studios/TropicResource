@@ -13,6 +13,13 @@
                 "tropiclash:tc_music/lobby_light"
 
         ]
+    },
+
+    "music.global.shopping":{
+        "sounds": [
+                "tropiclash:tc_music/shopping"
+
+        ]
     }
 
 }
