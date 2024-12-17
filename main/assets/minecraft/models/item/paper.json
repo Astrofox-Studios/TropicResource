@@ -240,10 +240,6 @@
 	
 	{"predicate": {"custom_model_data": 6969420}, "model": "item/weppons/walkie"},
 	{"predicate": {"custom_model_data": 6969421}, "model": "item/2d/r_button"},
-	{"predicate": {"custom_model_data": 6969422}, "model": "item/2d/speaker"},
-
-
-        {"predicate": {"custom_model_data": 1000001}, "model": "item/environment/games"},
-        {"predicate": {"custom_model_data": 1000001}, "model": "item/environment/shops"}
+	{"predicate": {"custom_model_data": 6969422}, "model": "item/2d/speaker"}
  ]
 }

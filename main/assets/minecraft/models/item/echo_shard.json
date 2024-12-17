@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/echo_shard"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data": 1000001}, "model": "item/environment/games"},
+	{"predicate": {"custom_model_data": 1000002}, "model": "item/environment/shops"}
+ ]
+}
