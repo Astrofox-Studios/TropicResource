@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "tropiclash:fonts/hub/shops"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 14, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 13], "texture": "#missing"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0, 13], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	]
+}
