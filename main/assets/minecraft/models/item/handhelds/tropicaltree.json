@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/Cosmetics/tropicaltree",
-		"particle": "item/Cosmetics/tropicaltree"
+		"0": "item/cosmetics/tropicaltree",
+		"particle": "item/cosmetics/tropicaltree"
 	},
 	"elements": [
 		{
