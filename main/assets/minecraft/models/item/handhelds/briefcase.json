@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/Cosmetics/briefcase",
-		"particle": "item/Cosmetics/briefcase"
+		"0": "item/cosmetics/briefcase",
+		"particle": "item/cosmetics/briefcase"
 	},
 	"elements": [
 		{
