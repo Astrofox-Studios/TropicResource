@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 	{"predicate": {"custom_model_data": 1000001}, "model": "item/environment/games"},
-	{"predicate": {"custom_model_data": 1000002}, "model": "item/environment/shops"}
+	{"predicate": {"custom_model_data": 1000002}, "model": "item/environment/shops"},
+        {"predicate": {"custom_model_data": 1000003}, "model": "item/environment/spawn"}
  ]
 }
