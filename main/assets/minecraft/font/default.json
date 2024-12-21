@@ -294,15 +294,6 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/admin.png",
-            "ascent": 8.5,
-            "height": 9,
-            "chars": [
-                ""
-            ]
-        },
-        {
-            "type": "bitmap",
             "file": "astro:_font/icons/astrofox/spec.png",
             "ascent": 8.5,
             "height": 9,
@@ -321,7 +312,7 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/artist.png",
+            "file": "astro:_font/icons/astrofox/management.png",
             "ascent": 8.5,
             "height": 9,
             "chars": [
@@ -330,16 +321,16 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/manager.png",
-            "ascent": 8.5,
-            "height": 9,
+            "file": "astro:_font/icons/astrofox/management_logo.png",
+            "ascent": 7.5,
+            "height": 8,
             "chars": [
                 ""
             ]
         },
         {
             "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/mod.png",
+            "file": "astro:_font/icons/astrofox/team.png",
             "ascent": 8.5,
             "height": 9,
             "chars": [
@@ -348,22 +339,87 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/tester.png",
-            "ascent": 8.5,
-            "height": 9,
+            "file": "astro:_font/icons/astrofox/team_logo.png",
+            "ascent": 7.5,
+            "height": 8,
             "chars": [
                 "" 
             ]
         },
         {
             "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/social.png",
+            "file": "astro:_font/icons/astrofox/moderator.png",
             "ascent": 8.5,
             "height": 9,
             "chars": [
                 "" 
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/moderator_logo.png",
+            "ascent": 7.5,
+            "height": 8,
+            "chars": [
+                "" 
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/ranks/leaf.png",
+            "ascent": 8.5,
+            "height": 9,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/ranks/leaf_logo.png",
+            "ascent": 7.5,
+            "height": 8,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/ranks/palm.png",
+            "ascent": 8.5,
+            "height": 9,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/ranks/palm_logo.png",
+            "ascent": 7.5,
+            "height": 8,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/ranks/bloom.png",
+            "ascent": 8.5,
+            "height": 9,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/ranks/bloom_logo.png",
+            "ascent": 7.5,
+            "height": 8,
+            "chars": [
+                "" 
+            ]
+        },
+
         {
             "type": "bitmap",
             "file": "astro:_font/icons/player.png",
