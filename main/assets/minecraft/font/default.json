@@ -213,29 +213,11 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/spec.png",
-            "ascent": -10,
-            "height": 10,
-            "chars": [
-                "\ue216"
-            ]
-        },
-        {
-            "type": "bitmap",
             "file": "astro:_font/icons/teams/greengoats.png",
             "ascent": -10,
             "height": 16,
             "chars": [
                 "\ue217"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/admin.png",
-            "ascent": -10,
-            "height": 10,
-            "chars": [
-                "\ue218"
             ]
         },
         {
@@ -272,33 +254,6 @@
             "height": 16,
             "chars": [
                 "\ue223"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/dev.png",
-            "ascent": 8.5,
-            "height": 9,
-            "chars": [
-                ""
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/builders.png",
-            "ascent": 8.5,
-            "height": 9,
-            "chars": [
-                ""
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/spec.png",
-            "ascent": 8.5,
-            "height": 9,
-            "chars": [
-                ""
             ]
         },
         {
@@ -938,15 +893,6 @@
             "height": 9,
             "chars": [
                 ""
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/cam.png",
-            "ascent": 8.5,
-            "height": 9,
-            "chars": [
-                ""
             ]
         },
         {
