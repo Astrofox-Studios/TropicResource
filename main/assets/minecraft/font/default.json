@@ -364,7 +364,6 @@
                 "" 
             ]
         },
-
         {
             "type": "bitmap",
             "file": "astro:_font/icons/ranks/leaf.png",
@@ -419,7 +418,6 @@
                 "" 
             ]
         },
-
         {
             "type": "bitmap",
             "file": "astro:_font/icons/player.png",
